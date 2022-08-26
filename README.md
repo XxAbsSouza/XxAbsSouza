@@ -24,11 +24,9 @@
 
 <div align="center">
   <a href="https://github.com/XxAbsSouza">
-  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=XxAbsSouza&show_icons=true&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&hide_title=true&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
-  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxAbsSouza&layout=compact&langs_count=7&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&title_color=00F5EF&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
+  <img width="49%" height="20px" src="https://github-readme-stats.vercel.app/api?username=XxAbsSouza&show_icons=true&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&hide_title=true&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
+  <img width="41%" height="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxAbsSouza&layout=compact&langs_count=7&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&title_color=00F5EF&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
 </div>
-
-<br>
 
 ![Snake animation](https://github.com/XxAbsSouza/XxAbsSouza/blob/output/github-contribution-grid-snake.svg)
 
@@ -58,6 +56,15 @@
       <img align="center" alt="gato" height="150" style="border-radius:50px;" src="https://c.tenor.com/tbq1x_4ZUiEAAAAi/act-innocent.gif">
     </div>
 </div>
+                                                                                                                                         
+##
+                                                                                                                                         
+<br>                                                                                                                                    
+                                                                                                                                         
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{XxAbsSouza}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020f75&height=70&section=footer"/>
                                                                                                              

@@ -24,6 +24,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxAbsSouza&layout=compact&langs_count=7&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&title_color=00F5EF&text_color=fa71f3&icon_color=F423BB""/>
 </div>
 
+##
+
 <br>
 
 ![Snake animation](https://github.com/XxAbsSouza/XxAbsSouza/blob/output/github-contribution-grid-snake.svg)

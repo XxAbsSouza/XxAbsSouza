@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020f75&height=70&section=header"/>
-<p align="left"><strong><samp>「</samp></strong></p>
+<p align="center" ><strong><samp>╭━━━━━━━━━━━━━━━━━━━━━━━━╾❋╼━━━━━━━━━━━━━━━━━━━━━━━━╮</samp></strong></p>
+<br>
+<br>
   <p align="center">
     <samp>
       <b>
@@ -15,7 +17,8 @@
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+  <br>
+<p align="center"><strong><samp>╰━━━━━━━━━━━━━━━━━━━━━━━━╾❋╼━━━━━━━━━━━━━━━━━━━━━━━━╯</samp></strong></p>
 
 <br>
 <div align="center">

@@ -24,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/XxAbsSouza">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=XxAbsSouza&show_icons=true&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&hide_title=true&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxAbsSouza&layout=compact&langs_count=7&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&title_color=00F5EF&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
+  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=XxAbsSouza&show_icons=true&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&hide_title=true&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
+  <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxAbsSouza&layout=compact&langs_count=7&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&title_color=00F5EF&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
 </div>
 
 ![Snake animation](https://github.com/XxAbsSouza/XxAbsSouza/blob/output/github-contribution-grid-snake.svg)

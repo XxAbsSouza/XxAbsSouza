@@ -7,7 +7,7 @@
       <b>
         Hello! Nice to have you here :)
       <br>
-        I'm 20 years old, a information systems student at fiap.
+        I'm 20 years old, an information systems student at fiap.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=fa71f3&center=true&width=410&height=45&lines=My+name+is+Ana+Beatriz+S.+Souza">

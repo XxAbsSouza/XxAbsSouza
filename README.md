@@ -1,71 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020f75&height=70&section=header"/>
-<p align="center" ><strong><samp>╭━━━━━━━━━━━━━━━━━━━━━━━━╾❋╼━━━━━━━━━━━━━━━━━━━━━━━━╮</samp></strong></p>
-<br>
-<br>
-  <p align="center">
-    <samp>
-      <b>
-        Hello! Nice to have you here :)
-      <br>
-        I'm 20 years old, an information systems student at fiap.
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=fa71f3&center=true&width=410&height=45&lines=My+name+is+Ana+Beatriz+S.+Souza">
-      <br>
-      <b>
-        ~ AbsSouza ~
-      </b>
-    </samp>
-  </p>
-  <br>
-<p align="center"><strong><samp>╰━━━━━━━━━━━━━━━━━━━━━━━━╾❋╼━━━━━━━━━━━━━━━━━━━━━━━━╯</samp></strong></p>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/XxAbsSouza">
-  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=XxAbsSouza&show_icons=true&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&hide_title=true&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
-  <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxAbsSouza&layout=compact&langs_count=7&theme=&bg_color=DEG,001539,020f75&include_all_commits=true&count_private=true&title_color=00F5EF&text_color=fa71f3&icon_color=F423BB&hide_border=true"/>
-</div>
-
-![Snake animation](https://github.com/XxAbsSouza/XxAbsSouza/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XxAbsSouza&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://www.gitskins.com/api/section/hero?username=xxabssouza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103938571%3Fu%3D1093def15aacf0d92590ccb5836fbf426c3dd292%26v%3D4" alt="xxabssouza hero visual" />
 </p>
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/ana-beatriz-dos-santos-souza-903b31225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
+<p align="center"><b>Ana Beatriz S. S. Romero</b> · Full-stack or AI engineer<br/><sub>Information System | Systems Development</sub></p>
 
-## 
+<p align="center"><a href="https://github.com/xxabssouza">GitHub</a> · <a href="https://www.linkedin.com/in/ana-beatriz-dos-santos-souza-903b31225/">Website</a></p>
 
-<div align="center"> 
-  <h3>I currently study:</h3>
-    <div style="display: inline_block, justify_content="center">
-      <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-      <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-      <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-      <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <br>
-      <img align="center" alt="gato" height="150" style="border-radius:50px;" src="https://c.tenor.com/tbq1x_4ZUiEAAAAi/act-innocent.gif">
-    </div>
-</div>
-                                                                                                                                         
-##
-                                                                                                                                         
-<br>                                                                                                                                    
-                                                                                                                                         
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{XxAbsSouza}/count.svg" /></p> 
-<br></div>
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020f75&height=70&section=footer"/>
-                                                                                                             
-                                                                                                             
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=xxabssouza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103938571%3Fu%3D1093def15aacf0d92590ccb5836fbf426c3dd292%26v%3D4" alt="xxabssouza projects visual" />
+</p>
+
+- [4walls](https://github.com/XxAbsSouza/4walls) · ★ 0
+- [CaixaSimples](https://github.com/XxAbsSouza/CaixaSimples) · ★ 0 — acnm
+- [AcnmEventos](https://github.com/XxAbsSouza/AcnmEventos) · ★ 0
+- [ElSalvador-2026-Actividad](https://github.com/XxAbsSouza/ElSalvador-2026-Actividad) · ★ 0
+- [Invite](https://github.com/XxAbsSouza/Invite) · ★ 0
+- [AI-Engeneering-Fiap2025](https://github.com/XxAbsSouza/AI-Engeneering-Fiap2025) · ★ 0
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=xxabssouza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103938571%3Fu%3D1093def15aacf0d92590ccb5836fbf426c3dd292%26v%3D4" alt="xxabssouza stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>53</b> public repositories, <b>0</b> stars, <b>70</b> contributions in the last year, a longest streak of <b>3</b> days and <b>7</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=xxabssouza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103938571%3Fu%3D1093def15aacf0d92590ccb5836fbf426c3dd292%26v%3D4" alt="xxabssouza stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=xxabssouza&theme=neon" alt="xxabssouza contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=xxabssouza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103938571%3Fu%3D1093def15aacf0d92590ccb5836fbf426c3dd292%26v%3D4" alt="xxabssouza social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Ana Beatriz  dos Santos Souza · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

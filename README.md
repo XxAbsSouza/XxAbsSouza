@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=xxabssouza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103938571%3Fu%3D1093def15aacf0d92590ccb5836fbf426c3dd292%26v%3D4" alt="xxabssouza hero visual" />
-</p>
+
 
 <p align="center"><b>Ana Beatriz S. S. Romero</b> · Full-stack or AI engineer<br/><sub>Information System | Systems Development</sub></p>
-
-<p align="center"><a href="https://github.com/xxabssouza">GitHub</a> · <a href="https://www.linkedin.com/in/ana-beatriz-dos-santos-souza-903b31225/">Website</a></p>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
@@ -65,4 +61,3 @@
 
 </details>
 
-<p align="center"><sub>Ana Beatriz  dos Santos Souza · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
